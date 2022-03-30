@@ -1,5 +1,3 @@
-# FullStack Technical Assessment
-
 ### Best Matched Restaurants
 
 #### Introduction
