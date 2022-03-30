@@ -2,8 +2,7 @@
 
 #### Introduction
 
-In the project outline, the project outline several objectives that one must accomplish for this search assignment.
-Here are the following objectives:
+This project is to provide a simple search service to a local area given particular criteria.
 
 1. Provide user up to five parameters to perform a search (query and filter queries)
 2. If invalid parameter value is given, return an error message.
